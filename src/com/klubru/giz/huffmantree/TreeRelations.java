@@ -7,7 +7,7 @@ import java.util.Objects;
 
 public class TreeRelations {
 
-	// node id -> lista z idkami s¹siadów
+
 	private HashMap<Integer, List<Integer>> relations = new HashMap<>();
 	private int relationsCount = 0;
 	
