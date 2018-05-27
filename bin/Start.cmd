@@ -1,0 +1,1 @@
+java com.klubru.giz.Main
